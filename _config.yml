@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Michael McConnell
+url: https://mvmcconnell.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -28,20 +28,19 @@ sass:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
+ga_analytics: G-3YVR6HWJH4
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Michael McConnell
+  email: michael.mcconnell@uvm.edu
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
+  - title: Archive
     url: /archive
 
   - title: About
