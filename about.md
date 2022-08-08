@@ -3,11 +3,6 @@ layout: page
 title: About
 ---
 
----
-layout: page
-title: About
----
-
 I am a PhD student at the University of Vermont advised by Christian Skalka. Currently, I am primarily affiliated with the [PLAID Lab](https://plaid.w3.uvm.edu/) and [M@PLE](https://uvm-maple.github.io/about/). My research interests are information-theoretic security, differential privacy, programming languages, anonymity, and smart contracts.
 
 ## Education
