@@ -16,6 +16,7 @@ My research interests are information-theoretic security, differential privacy, 
 
 - michael.mcconnell@uvm.edu
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=k-MfymQAAAAJ)
+- [GPG KEY](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x98591C8C47E5B1FB)
 
 ## Public Key
 ```
