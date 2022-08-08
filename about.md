@@ -16,7 +16,7 @@ I am a Computer Science PhD student at the University of Vermont advised by Chri
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=k-MfymQAAAAJ)
 
 ## Public Key
-
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGLwlXkBEADk/yf6FMUXsHolFYGXEN2h/JMaID1Y4dLJ9V7fxmNvNAPvkNQA
@@ -45,4 +45,5 @@ OPVjBHaZjjVF/bqrcGPjDBn/EoyXxikHEsSGTwZZoTXkYfVB7+w1//KtClx6oHW/
 hlxp8gJyOgLyCW95fGzjx+2HpOwai2y1l3Oqa4//uh/BLF9eUk1XPdZSTYTWiq9m
 dljB1E9571ubw2MesNpWbJOw55uHbg==
 =vj6T
------END PGP PUBLIC KEY BLOCK-----
+-----END PGP PUBLIC KEY BLOCK-----```
+
