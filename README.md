@@ -1,26 +1,3 @@
-# Dark Poole
-
-![Dark Poole](https://user-images.githubusercontent.com/13270895/89133355-26b3af80-d4e9-11ea-81cd-eacaa9c78320.png)
-
-Dark Poole is a permanent dark theme of the Poole theme by [@mdo](https://github.com/mdo). I made the theme darker, inspired by [Derek Kedziora's site](https://derekkedziora.com/). Unlike default Poole that utilizes CSS media queries to activate dark mode, the theme will stay dark regardless of the user's preference.
-
-- I added a navbar that is easily customizable. Check out [Development](#development) to see how.
-- I also got rid of the "tagline" in the navbar. I think it looks cleaner without it.
-- Finally, I changed the default font size to 20px. I have 20/20 vision and still thought the original font size was too small.
-
-That's it! I tried to be least intrusive as possible to the Poole code base.
-
-**I noticed that Poole's documentation is slightly outdated and misleading. This documentation will try to address most, if not all, of these issues.**
-
----
-
-## Contents
-
-- [Usage](#usage)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
-
 ## Usage
 
 ### 1. Install dependencies
@@ -124,5 +101,3 @@ nav:
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
-
-<3
