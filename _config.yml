@@ -42,6 +42,9 @@ version: 3.0.0
 nav:
   - title: Archive
     url: /archive
+  
+  - title: Work
+    url: /work
 
   - title: About
     url: /about
