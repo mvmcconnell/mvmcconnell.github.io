@@ -19,6 +19,4 @@ title: Work
 
 ## Talks
 
-- 
-
 - _**Probabilistic MPC Security Semantics**_, <br> CS Research Day, University of Vermont, 2022. - [Link](https://www.uvm.edu/~jonaolap/csrd/2022.html#t9-abstract)
